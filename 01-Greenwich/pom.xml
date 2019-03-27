@@ -60,9 +60,9 @@
         <!-- <module>zipkin-server-stream</module> -->
 
         <!--swagger api 文档汇总-->
-        <!-- <module>swagger-service-a</module> -->
-        <!-- <module>swagger-service-b</module> -->
-        <!-- <module>swagger-api-gateway</module> -->
+        <module>swagger-service-a</module>
+        <module>swagger-service-b</module>
+        <module>swagger-api-gateway</module>
 
     </modules>
 
